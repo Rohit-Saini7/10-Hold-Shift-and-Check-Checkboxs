@@ -4,7 +4,7 @@ Date: July 12, 2022
 
 # Tenth challange of [JavaScript30](https://javascript30.com/)
 
-Different types of dev tools console commands. To experience on your own visit [here](https://rohit-saini7.github.io/10-Hold-Shift-and-Check-Checkboxs/)
+This challange is about how to implement checking multiple checkbox at once. To experience on your own visit [here](https://rohit-saini7.github.io/10-Hold-Shift-and-Check-Checkboxs/)
 
 ## What is JavaScript 30
 
